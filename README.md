@@ -79,7 +79,7 @@ edit_git_config()
 
 <p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=361">How to Connect RStudio Projects with GitHub Repositories: GitHub First from David Keyes.</a></p>
 
-**When the video asks you to "Create project as subdirectory of:", click Browse and select the SDS192 folder we created at the beginning of today's class.**  
+**When the video asks you to "Create project as subdirectory of:", click Browse and select the SDS192 folder we created in our Wednesday's class.**  
 
 12. Open the Lab1.qmd file from the Files tab in RStudio. Follow the instruction in the file. 
 
