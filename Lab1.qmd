@@ -1,6 +1,6 @@
 ---
 title: "SDS192 Lab 1"
-author: Section WRITE YOUR SECTION NUMBER HERE - WRITE YOUR NAME HERE
+author: WRITE YOUR NAME HERE
 output:
   html_document
 ---
