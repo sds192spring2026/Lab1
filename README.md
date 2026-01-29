@@ -129,7 +129,7 @@ You are probably trying to open R rather than RStudio. Make sure you click on th
 
 ### When I type in `which git`, I'm getting an error message that says that 'which' is not recognized. 
 
-David Keyes was recording this video on a Mac. If which is not recognized, it's likely because you are on a Windows machine. Try typing `where git` instead of `which git`. 
+`which git` is for a Mac. If which is not recognized, it's likely because you are on a Windows machine. Try typing `where git` instead of `which git`. 
 
 ### I don’t have git installed. 
 
