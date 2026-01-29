@@ -71,7 +71,7 @@ edit_git_config()
 
 **CONGRATULATIONS! You've configured GitHub to connect with RStudio! Now onto assignment submission practice.** 
 
-9. Click <a href="https://classroom.github.com/a/6agy1WU-">this link</a> to accept this assignment in our GitHub classroom. Then a private repository (repo) will be automatically created for you. It might take a few minutes. 
+9. Click <a href="https://classroom.github.com/a/anIJruHA">this link</a> to accept this assignment in our GitHub classroom. Then a private repository (repo) will be automatically created for you. It might take a few minutes. 
 
 10. Once the repo is created, copy and paste the "Clone" URL from the repo that was just created to your clipboard. It should look something like https://github.com/sds192spring2026/lab1-yourusername.git
 
