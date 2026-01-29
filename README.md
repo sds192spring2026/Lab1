@@ -98,7 +98,7 @@ You will be evaluated on the completion of your lab.
 
 In this assignment, the following standards will be assessed (the number in () indicates the maximum points you can earn for a paticulrar standard for this lab): 
 
-GITHUB (0.22)
+GITHUB (0.28)
 
 ---
 ## Troubleshooting Common Issues
