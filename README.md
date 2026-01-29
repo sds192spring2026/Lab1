@@ -117,7 +117,7 @@ This was happening for a few students on Windows machines. The reason is that yo
 
 This means that you likely installed RStudio but not R. Check back in on the instructions in Step 2 to make sure that you install R **and** RStudio. 
 
-### When I try to open RStudio, I’m not seeing the screen that appears in David Keyes's video in step 4. 
+### When I try to open RStudio, I’m not seeing the information in step 4. 
 
 You are probably trying to open R rather than RStudio. Make sure you click on this icon:
 
